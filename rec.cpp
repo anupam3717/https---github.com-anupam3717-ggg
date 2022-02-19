@@ -34,5 +34,6 @@ int main(){
     string g="justintumblera";
     int n=g.length();
     cout<<check(g,0,n-1);
+    cout<<"my ans";
     return 0;
 }
